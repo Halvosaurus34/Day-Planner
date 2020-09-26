@@ -64,6 +64,11 @@ if (moment().hour() > 9 ) {
     $('#text1').attr('style', 'background-color: lightgrey;')
 }
 
+if (moment().hour() < 9 ) {
+    $('#text1').attr('style', 'background-color: lightsalmon;')
+}
+
+
 if (moment().hour() == 10 ) {
     $('#text2').attr('style', 'background-color: lightgreen;')
 }
@@ -73,7 +78,7 @@ if (moment().hour() > 10 ) {
 }
 
 if (moment().hour() < 10 ) {
-    $('#text2').attr('style', 'background-color: lightpurple;')
+    $('#text2').attr('style', 'background-color: lightsalmon;')
 }
 
 if (moment().hour() == 11 ) {
@@ -85,7 +90,7 @@ if (moment().hour() > 11 ) {
 }
 
 if (moment().hour() < 11 ) {
-    $('#text3').attr('style', 'background-color: lightpurple;')
+    $('#text3').attr('style', 'background-color: lightsalmon;')
 }
 
 if (moment().hour() == 12 ) {
@@ -97,7 +102,7 @@ if (moment().hour() > 12 ) {
 }
 
 if (moment().hour() < 12 ) {
-    $('#text4').attr('style', 'background-color: lightpurple;')
+    $('#text4').attr('style', 'background-color: lightsalmon;')
 }
 
 if (moment().hour() == 13 ) {
@@ -109,7 +114,7 @@ if (moment().hour() > 13 ) {
 }
 
 if (moment().hour() < 13 ) {
-    $('#text5').attr('style', 'background-color: lightpurple;')
+    $('#text5').attr('style', 'background-color: lightsalmon;')
 }
 
 if (moment().hour() == 14 ) {
@@ -121,7 +126,7 @@ if (moment().hour() > 14 ) {
 }
 
 if (moment().hour() < 14 ) {
-    $('#text6').attr('style', 'background-color: lightpurple;')
+    $('#text6').attr('style', 'background-color: lightsalmon;')
 }
 
 if (moment().hour() == 15 ) {
@@ -133,7 +138,7 @@ if (moment().hour() > 15 ) {
 }
 
 if (moment().hour() < 15 ) {
-    $('#text7').attr('style', 'background-color: lightpurple;')
+    $('#text7').attr('style', 'background-color: lightsalmon;')
 }
 
 if (moment().hour() == 16 ) {
@@ -145,7 +150,7 @@ if (moment().hour() > 16 ) {
 }
 
 if (moment().hour() < 16 ) {
-    $('#text8').attr('style', 'background-color: lightpurple;')
+    $('#text8').attr('style', 'background-color: lightsalmon;')
 }
 
 if (moment().hour() == 17 ) {
