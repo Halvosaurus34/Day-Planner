@@ -1,9 +1,9 @@
 # Day-Planner
 
 # Description
-We were asked to create a coding quiz website that includes a home page, a five question quiz, local storage of score and user, and a highscore page. The timer shows in the top right when taking the quiz, 10 seconds is taken off time for every wrong answer. Multiple users will be stored in the highscore page along with the option to clear highscores.
+We were asked to create a day planner website that includes the date and time, hour slots between 9am and 5pm. You can write in the text boxes and press the save button to save to local storage. The colors will change depending on what time it is. grey = in the past, green = present, light salmon = future.
 ## Issues
-The primary issue for this project was trying to get the javascript to work with multiple html pages. Another challenge was getting the score and user to store as a local storage element.
+The primary issue for this project was trying to check if the time was greater than, equal to or less than each of the time slots.
 ## Collaborators
 With instruction from Fil and Daniel.
 ___
@@ -16,6 +16,6 @@ ___
 ___
 [GitHub Repository](https://github.com/Halvosaurus34/Day-Planner)
 ___
-[My Coding Quiz](https://halvosaurus34.github.io/Code-Quiz/index.html)
+[My Day Planner](https://halvosaurus34.github.io/Day-Planner/index.html)
 ___
 ______
