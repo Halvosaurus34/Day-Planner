@@ -1,34 +1,26 @@
 body {
-    font-family: 'Ubuntu', sans-serif;
-    height:100%;
-    width: 100%;
+  font-family: "Ubuntu", sans-serif;
+  height: 100%;
+  width: 100%;
 }
 
 .container-fluid {
-    font-family: 'Ubuntu', sans-serif;
-}
-
-#top-date {
-    float: right;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .rows {
-    height:75px;
-    margin-bottom: 5px;;
-    text-align: center;
-
+  height: 75px;
+  margin-bottom: 5px;
+  text-align: center;
 }
 
 .col1 {
-    background-color: lightseagreen;
-    font-family: 'Ubuntu', sans-serif;
-    padding: 0;
+  background-color: lightseagreen;
+  font-family: "Ubuntu", sans-serif;
+  padding: 0;
 }
 
 .col2 {
-    height:75px;
-    font-size: 20px;
-
+  height: 75px;
+  font-size: 20px;
 }
-
-
